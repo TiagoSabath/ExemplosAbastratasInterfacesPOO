@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\bin\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\bin\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\bin\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\bin\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\bin\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\refint\ExemplosAbasstratasInterfacesPOO.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ExemplosAbasstratasInterfacesPOO.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbasstratasInterfacesPOO\obj\Debug\net7.0\ref\ExemplosAbasstratasInterfacesPOO.dll
